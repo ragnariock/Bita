@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>456.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/detectBita/image/456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1596</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bita</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>354</ymin>
+			<xmax>1283</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>
